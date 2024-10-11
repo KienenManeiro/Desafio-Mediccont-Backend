@@ -1,0 +1,6 @@
+@DESAFIO_MEDICCONT_HostAddress = http://localhost:5217
+
+GET {{DESAFIO_MEDICCONT_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
