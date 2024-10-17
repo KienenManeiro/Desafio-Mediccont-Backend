@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kienen\\Desktop\\Mediccont\\Desafio_Mediccont\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8224005-B5B9-4283-B1E9-17FECD483A50}|DESAFIO_MEDICCONT\\DESAFIO_MEDICCONT.csproj|c:\\users\\kienen\\desktop\\mediccont\\desafio_mediccont\\desafio_mediccont\\models\\itarefarepository||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E8224005-B5B9-4283-B1E9-17FECD483A50}|DESAFIO_MEDICCONT\\DESAFIO_MEDICCONT.csproj|solutionrelative:desafio_mediccont\\models\\itarefarepository||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8224005-B5B9-4283-B1E9-17FECD483A50}|DESAFIO_MEDICCONT\\DESAFIO_MEDICCONT.csproj|c:\\users\\kienen\\desktop\\mediccont\\desafio_mediccont\\desafio_mediccont\\models\\classtarefa||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E8224005-B5B9-4283-B1E9-17FECD483A50}|DESAFIO_MEDICCONT\\DESAFIO_MEDICCONT.csproj|solutionrelative:desafio_mediccont\\models\\classtarefa||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8224005-B5B9-4283-B1E9-17FECD483A50}|DESAFIO_MEDICCONT\\DESAFIO_MEDICCONT.csproj|c:\\users\\kienen\\desktop\\mediccont\\desafio_mediccont\\desafio_mediccont\\infraestrutura\\tarefarepository||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E8224005-B5B9-4283-B1E9-17FECD483A50}|DESAFIO_MEDICCONT\\DESAFIO_MEDICCONT.csproj|solutionrelative:desafio_mediccont\\infraestrutura\\tarefarepository||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8224005-B5B9-4283-B1E9-17FECD483A50}|DESAFIO_MEDICCONT\\DESAFIO_MEDICCONT.csproj|c:\\users\\kienen\\desktop\\mediccont\\desafio_mediccont\\desafio_mediccont\\infraestrutura\\connectioncontext||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E8224005-B5B9-4283-B1E9-17FECD483A50}|DESAFIO_MEDICCONT\\DESAFIO_MEDICCONT.csproj|solutionrelative:desafio_mediccont\\infraestrutura\\connectioncontext||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ITarefaRepository",
+              "DocumentMoniker": "C:\\Users\\Kienen\\Desktop\\Mediccont\\Desafio_Mediccont\\DESAFIO_MEDICCONT\\Models\\ITarefaRepository",
+              "RelativeDocumentMoniker": "DESAFIO_MEDICCONT\\Models\\ITarefaRepository",
+              "ToolTip": "C:\\Users\\Kienen\\Desktop\\Mediccont\\Desafio_Mediccont\\DESAFIO_MEDICCONT\\Models\\ITarefaRepository",
+              "RelativeToolTip": "DESAFIO_MEDICCONT\\Models\\ITarefaRepository",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-15T19:11:16.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "classTarefa",
+              "DocumentMoniker": "C:\\Users\\Kienen\\Desktop\\Mediccont\\Desafio_Mediccont\\DESAFIO_MEDICCONT\\Models\\classTarefa",
+              "RelativeDocumentMoniker": "DESAFIO_MEDICCONT\\Models\\classTarefa",
+              "ToolTip": "C:\\Users\\Kienen\\Desktop\\Mediccont\\Desafio_Mediccont\\DESAFIO_MEDICCONT\\Models\\classTarefa",
+              "RelativeToolTip": "DESAFIO_MEDICCONT\\Models\\classTarefa",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-15T19:11:15.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConnectionContext",
+              "DocumentMoniker": "C:\\Users\\Kienen\\Desktop\\Mediccont\\Desafio_Mediccont\\DESAFIO_MEDICCONT\\Infraestrutura\\ConnectionContext",
+              "RelativeDocumentMoniker": "DESAFIO_MEDICCONT\\Infraestrutura\\ConnectionContext",
+              "ToolTip": "C:\\Users\\Kienen\\Desktop\\Mediccont\\Desafio_Mediccont\\DESAFIO_MEDICCONT\\Infraestrutura\\ConnectionContext",
+              "RelativeToolTip": "DESAFIO_MEDICCONT\\Infraestrutura\\ConnectionContext",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-15T19:11:10.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TarefaRepository",
+              "DocumentMoniker": "C:\\Users\\Kienen\\Desktop\\Mediccont\\Desafio_Mediccont\\DESAFIO_MEDICCONT\\Infraestrutura\\TarefaRepository",
+              "RelativeDocumentMoniker": "DESAFIO_MEDICCONT\\Infraestrutura\\TarefaRepository",
+              "ToolTip": "C:\\Users\\Kienen\\Desktop\\Mediccont\\Desafio_Mediccont\\DESAFIO_MEDICCONT\\Infraestrutura\\TarefaRepository",
+              "RelativeToolTip": "DESAFIO_MEDICCONT\\Infraestrutura\\TarefaRepository",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-15T18:53:49.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

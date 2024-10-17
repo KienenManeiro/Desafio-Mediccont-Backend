@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Mediccont.Controllers.TarefaController",
+    "Method": "Add",
+    "RelativePath": "api/v1/tarefa",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tarefaView",
+        "Type": "Mediccont.ViewModel.TarefaViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Mediccont.Controllers.TarefaController",
+    "Method": "Get",
+    "RelativePath": "api/v1/tarefa",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
