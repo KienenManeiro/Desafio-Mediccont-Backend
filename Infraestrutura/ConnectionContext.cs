@@ -9,7 +9,6 @@ namespace Mediccont.Infraestrutura
         public DbSet<Tarefa> Tarefa { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-            => optionsBuilder.UseNpgsql(
-                "Host=localhost:5432;Database=postgres;Username=postgres;Password=123");
+            => optionsBuilder.UseNpgsql("Host=localhost;Database=postgres;Username=postgres;Password=123");
     }
 }
